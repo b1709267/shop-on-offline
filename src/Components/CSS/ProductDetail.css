@@ -1,0 +1,38 @@
+.img-product-detail{
+    background-color: red;
+    width: 450px;
+    height: 450px;
+}
+.input-qty{
+    width: 60px;
+    margin-bottom: 5px;
+}
+.pay-cart {
+    color:rgb(209, 62, 62);
+    font-size: 15px;
+    font-family: "Helvetica Neue",
+}
+hr.pay-border {
+    background: linear-gradient(45deg,#2727b7, #330c46);
+    font-weight: 800;
+}
+.pay-info{
+    font-size:12px;
+    font-weight: 400;
+}
+.pay-span{
+    color: red;
+    font-size:15px;
+    font-weight:500;
+}
+.card-category:hover{
+    color: rgb(133, 19, 19);
+    background-color:aqua;
+    transform:translateY(-15px);
+    transition: transform .3s;
+}
+.card-category.card {
+    border-radius: 30%;
+    height:210px;
+    margin-top:2px;
+}

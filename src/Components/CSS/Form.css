@@ -1,0 +1,144 @@
+.container .login{
+    position: absolute;
+    max-width: 800px;
+    height: 500px;
+    margin: auto;
+    top:50%;
+    left: 50%;
+   transform: translate(-50%, -50%);
+  }
+  .rigthCtn{
+    position: relative;
+    background-image: linear-gradient(-45deg,#4a4ac2, #540d77);
+    border-radius: 25px;
+    height: 80%;
+    padding: 25px;
+    color: rgb(24, 22, 24);
+    font-size: 12px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .myLeftCtn{
+    position: relative;
+    background-color: #fff;
+    border-radius: 25px;
+    height: 80%;
+    padding: 25px;
+    padding-left: 50px;
+  }
+  .myLeftCtn header{
+    color: rgb(34, 9, 80);
+    font-size:20px;
+    font-weight: 700;
+    margin-bottom: 20px;
+  }
+  .row{
+    height: 100%;
+    margin-top: 10px;
+  }
+  .myCard{
+    position: relative;
+    background: #fff;
+    height: 100%;
+    -webkit-box-shadow: 0px 10px 40px -10px rgba(0,0,0,0.7);
+    -moz-box-shadow:0px 10px 40px -10px rgba(0,0,0,0.7);
+    box-shadow:0px 10px 40px -10px rgba(0,0,0,0.7);
+  }
+  .rigthCtn header{
+    color: #fff;
+    font-size: 35px;
+    padding:10px 10px;
+  }
+  .box{
+    position: relative;
+    margin: 20px;
+    margin-bottom:150px;
+  }
+  .box i{
+    font-size: 18px;
+    margin-top: 10px;
+    color: #fff;
+    font-weight: 600;
+  }
+  .box  a{
+    color:  rgb(77, 7, 7);;
+  }
+  .myLeftCtn .myInput{
+  width: 230px;
+  border-radius: 25px;
+  padding: 10px;
+  padding-left: 50px;
+  border: none;
+  -webkit-box-shadow: 0px 10px 49px -14px rgba(0,0,0,0.7);
+  -moz-box-shadow:0px 10px 49px -14px rgba(0,0,0,0.7);
+  box-shadow:0px 10px 49px -14px rgba(0,0,0,0.7);
+  margin-top: 40px;
+  }
+  /* SingUP */
+  .leftCtn .myInput{
+    width: 230px;
+    border-radius: 25px;
+    padding: 10px;
+    padding-left: 50px;
+    border: none;
+    -webkit-box-shadow: 0px 10px 49px -14px rgba(0,0,0,0.7);
+    -moz-box-shadow:0px 10px 49px -14px rgba(0,0,0,0.7);
+    box-shadow:0px 10px 49px -14px rgba(0,0,0,0.7);
+    margin-top: 5px;
+    }
+    .leftCtn header{
+      color: rgb(35, 4, 97);
+      font-size: 24px;
+      font-weight: 700;
+      margin-bottom: 20px;
+    }
+    .contact{
+      margin-top: 10px;
+      font-weight: 700;
+      color: rgb(79, 12, 12);
+    }
+    .error {
+      color: #b51a50;
+      font-weight: 500;
+      font-size: 15px;
+      text-align: left;
+      margin-left: 80px;
+    }
+   .error::before {
+     font-family: FontAwesome;
+      display: inline;
+      content: "\f071 ";
+      
+    }
+    .errorSignIn{
+      color: #b51a50;
+      font-weight: 300;
+      font-size: 15px;
+    }
+   .errorSignIn::before {
+     font-family: FontAwesome;
+      display: inline;
+      content: "\f071 ";
+      
+    }
+ .check-seller .form-check .form-check-input {
+      float: left;
+      margin-left: 18px;
+  }
+  .check-seller {
+    padding: 10px 10px 5px 5px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+}
+.check-seller .form-check-label{
+  color: #111010;
+  margin:0;
+  padding:0;
+  font-size:18px;
+  font-weight: 500;
+  margin-left: 0;
+
+}
+
+
