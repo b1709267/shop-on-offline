@@ -1,4 +1,3 @@
 node_modules
 #.git
-#Please check the shop-on-offline folder by command "ls -a", if there is a folder ".git",
-#you must uncomment the line ".git" to ignore this folder when building Image
+#Please check the shop-on-offline folder by command "ls -a", if there is a folder ".git", you must uncomment the line ".git" to ignore this folder when building Image
